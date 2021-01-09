@@ -6,7 +6,7 @@ version = "0.0.1"
 authors = ["Lucas Jenß"]
 categories = ["os::macos-apis", "accessibility"]
 edition = "2018"
-license = "MIT OR Apache-2.0"
+license = "Apache-2.0"
 build = "build.rs"
 
 [dependencies]
