@@ -2,7 +2,7 @@
 
 This crate, in its current state, only provides the functionality to query whether the running application is a trusted accessibility client, and if not, display the following rather well known prompt:
 
-![macOS accessibility prompt](doc/prompt.png)
+<img src="doc/prompt.png" alt="Screenshot of macOS accessibility prompt" width="500">
 
 More functionality may be added in the future. Feel free to open an issue if you think there's something missing.
 
